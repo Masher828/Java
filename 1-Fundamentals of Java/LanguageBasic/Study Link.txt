@@ -1,0 +1,4 @@
+2	Environment setup			http://www.tutorialspoint.com/java/java_environment_setup.htm		Web	Suggestive
+3	Creating First Java Program		http://spoken-tutorial.org/watch/Java/First+Java+Program/English/	Video	Suggestive
+8	Variables, Data types and Assignment	http://spoken-tutorial.org/watch/Java/Numerical+Datatypes/English/	Video	Suggestive
+9	Variables, Data types and Assignment	http://www.tutorialspoint.com/java/java_basic_datatypes.htm		Web	Suggestive

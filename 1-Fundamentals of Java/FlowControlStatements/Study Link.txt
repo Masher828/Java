@@ -1,0 +1,9 @@
+1	If Statement		https://www.tutorialspoint.com/java/if_statement_in_java.htm				Web	Mandatory
+2	If-else Statement	https://www.tutorialspoint.com/java/if_else_statement_in_java.htm			Web	Mandatory
+3	Nested - If Statement	https://www.tutorialspoint.com/java/nested_if_statements_in_java.htm			Web	Mandatory
+4	Switch Statement	https://www.tutorialspoint.com/java/switch_statement_in_java.htm			Web	Mandatory
+5	While Loop		https://www.tutorialspoint.com/java/java_while_loop.htm					Web	Mandatory
+6	For Loop		https://www.tutorialspoint.com/java/java_for_loop.htm					Web	Mandatory
+7	Enhanced For Loop	http://www.tutorialspoint.com/java/java_loop_control.htm				Web	Mandatory
+8	Do While loop		https://www.tutorialspoint.com/java/java_do_while_loop.htm				Web	Mandatory
+9	Break and Continue	http://www.w3schools.in/java-tutorial/difference-between-break-and-continue-statement/	Web	Mandatory

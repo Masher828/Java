@@ -1,0 +1,2 @@
+1	One Dimensional Array				http://www.tutorialspoint.com/java/java_arrays.htm				Web	Mandatory
+5	Arrays						http://spoken-tutorial.org/watch/Java/Introduction%2Bto%2BArray/English/	Video	Suggestive

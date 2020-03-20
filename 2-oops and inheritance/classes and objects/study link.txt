@@ -1,0 +1,6 @@
+3	Classes and Objects		http://spoken-tutorial.org/watch/Java/Creating%2Bclass/English/			Video	Suggestive
+4	Classes and Objects		http://www.tutorialspoint.com/java/java_object_classes.htm			Web	Suggestive
+6	Objects				http://spoken-tutorial.org/watch/Java/Creating%2Bobject/English/		Video	Suggestive
+8	Constructors			http://spoken-tutorial.org/watch/Java/Default%2Bconstructor/English/		Video	Suggestive
+9	Overloading Constructors	http://spoken-tutorial.org/watch/Java/Parameterized%2Bconstructors/English/	Video	Suggestive
+10	Return statement		https://docs.oracle.com/javase/tutorial/java/javaOO/returnvalue.html		Web	Mandatory
